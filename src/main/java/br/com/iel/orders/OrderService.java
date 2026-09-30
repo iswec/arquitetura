@@ -1,5 +1,6 @@
 package br.com.iel.orders;
 
+import br.com.iel.orders.discount.OrderPriceCalculator;
 import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;
